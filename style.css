@@ -6,8 +6,8 @@ img {
    position: absolute;
    top: 50%;
    left: 50%;
-   width: 129px;
-   height: 129px;
-   margin-top: -65px; /* Half the height */
-   margin-left: -65px; /* Half the width */
+   width: 266px;
+   height: 142px;
+   margin-top: -71px; /* Half the height */
+   margin-left: -133px; /* Half the width */
 }
