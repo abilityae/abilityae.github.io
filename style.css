@@ -11,6 +11,10 @@ a:hover {
 	color: #2F316D;
 }
 
+a:visited {
+	text-decoration: none;
+}
+
 #profile {
 	line-height: 120px;	
 	width: 266px;
