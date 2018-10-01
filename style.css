@@ -2,12 +2,29 @@ body {
 	background-color: rgb(230, 230, 230);
 }
 
-img {
-   position: absolute;
-   top: 50%;
-   left: 50%;
-   width: 266px;
-   height: 142px;
-   margin-top: -71px; /* Half the height */
-   margin-left: -133px; /* Half the width */
+a {
+	text-decoration: none;
+	color: #424496;
+}
+
+a:hover {
+	color: #2F316D;
+}
+
+#profile {
+	line-height: 120px;	
+	width: 266px;
+	height: 142px;
+}
+
+#picture {
+	text-align: center;
+	margin-top: 150px;
+	height: 100px;
+}
+
+#icons {
+	text-align: center;
+	font-size: 50px;
+	margin-top: 50px;
 }
