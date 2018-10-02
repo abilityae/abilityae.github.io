@@ -16,15 +16,14 @@ a:visited {
 }
 
 #profile {
-	line-height: 120px;	
-	width: 266px;
-	height: 142px;
+	width: 272px;
+	height: 204px;
 }
 
 #picture {
 	text-align: center;
-	margin-top: 150px;
-	height: 100px;
+	margin-top: 130px;
+	height: 120px;
 }
 
 #icons {
