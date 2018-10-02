@@ -17,6 +17,7 @@
 </head>
 <body>
 
+	<div id="main">
 	<div id="picture">
 	<img id="profile" class="centered" src="logo-transparent.png" alt="Logotipo da empresa">
 	</div>
@@ -28,6 +29,17 @@
         <li><a href="https://www.facebook.com/AbilityAssessoriaEmpresarialLtda/"><i class="fab fa-facebook-square"></i></a></li>
       </ul>
     </div>
+    </div>
 
+<script src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+
+<script type="text/javascript">
+	function main() {
+  $("#main").hide();
+  $("#main").fadeIn(400);
+}
+
+$(document).ready(main);
+</script>
 </body>
 </html>
