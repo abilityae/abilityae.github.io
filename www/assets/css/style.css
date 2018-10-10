@@ -868,7 +868,7 @@ Home Section style
     background: url(../images/home-bg.jpg) no-repeat scroll  center center;
     background-size: cover;
     position: relative;
-    padding-top: 300px;
+    padding-top: 200px;
     padding-bottom: 190px;
     width:100%;
 }
@@ -907,7 +907,7 @@ Home Section style
     height: 10px;
     margin: 0 5px;
 }
-.main_home .slick-dots li.slick-active button:before{
+.main_home .slick-dots li.slick-active button:before {
     opacity: 1;
     background-color: #142441;
 }
