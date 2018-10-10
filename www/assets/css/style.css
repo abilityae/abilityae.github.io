@@ -124,12 +124,7 @@ section { overflow: hidden; }
 .bg-white{background-color: #fff;}
 
 img {
-    -moz-user-select: none;
-    -webkit-user-select: none;
-    -ms-user-select: none;
-    -user-select: none;
-    -webkit-user-drag: none;
-    -user-drag: none;
+   vertical-align: super;
 }
 a,
 a:hover,
@@ -838,7 +833,7 @@ Nav Menu style
     padding: 25px 15px;
 }
 .navbar-brand > img {
-    display: block;
+    display: inline-flex;
     width: 80%;
 }
 
