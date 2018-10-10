@@ -1330,10 +1330,11 @@ work Section style
 
 .main_footer i {
     padding: 0px 5px;
-    color: #ff0000;
+    color: #fff;
+    font-size: 20px;
 }
 
 .main_footer a {
-    color: #ddd;
+    color: #fff;
     padding: 5px;
 }
