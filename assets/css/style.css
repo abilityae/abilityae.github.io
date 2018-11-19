@@ -11,9 +11,7 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
-/*------------------------------------------------------------------*/
 /*   IE10 in Windows 8 and Windows Phone 8 Bug fix
-/*-----------------------------------------------------------------*/
 
 @-webkit-viewport { width: device-width; }
 @-moz-viewport { width: device-width; }
